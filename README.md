@@ -122,10 +122,7 @@ I'm a **Backend Software Engineer** with **1.5+ years of experience** building p
 
 ---
 
-## 🎓 Education
 
-**B.Tech — Information Technology**
-AAMEC, Anna University · 2020–2024 · CGPA: 7.63/10
 
 ---
 
