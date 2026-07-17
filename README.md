@@ -44,7 +44,7 @@ open_to     : Backend roles · API-first products · High-ownership teams
 
 ## 🚀 About Me
 
-I'm a **Backend Software Engineer** with **2+ years of experience** building production-grade systems in **fintech and AI**. I specialize in designing and shipping **scalable REST APIs**, **automated data pipelines**, and **AI-integrated platforms** — with a focus on measurable business impact.
+I'm a **Backend Software Engineer** with **2 years of experience** building production-grade systems in **fintech and AI**. I specialize in designing and shipping **scalable REST APIs**, **automated data pipelines**, and **AI-integrated platforms** — with a focus on measurable business impact.
 
 - 🔭 Currently building an **AI-powered call practice platform** and an **investor intelligence system** at [Qubit](https://qubit.com)
 - ⚡ Delivered systems with **99.9% uptime** and improved development velocity by **~50%**
