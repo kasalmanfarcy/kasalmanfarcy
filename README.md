@@ -35,7 +35,7 @@ name        : Salman Farcy
 role        : Backend Software Engineer
 company     : Qubit
 location    : India 🇮🇳
-experience  : 1.5+ years in Fintech & AI-powered platforms
+experience  : 2 years in Fintech & AI-powered platforms
 focus       : Python · REST APIs · Scalable Systems · Data Pipelines
 open_to     : Backend roles · API-first products · High-ownership teams
 ```
